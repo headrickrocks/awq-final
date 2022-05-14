@@ -10,6 +10,11 @@
       "StackName": "amplify-awqfinal-staging-205319",
       "StackId": "arn:aws:cloudformation:us-east-1:206441467228:stack/amplify-awqfinal-staging-205319/8e3b8dd0-d235-11ec-963c-0e901743254b",
       "AmplifyAppId": "d1o2kclrrjh604"
+    },
+    "categories": {
+      "auth": {
+        "awqfinal": {}
+      }
     }
   }
 }
